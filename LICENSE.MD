@@ -1,6 +1,6 @@
                     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
-
+                       
  Copyright (C) 1989, 1991 Free Software Foundation, Inc., <http://fsf.org/>
  51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
  Everyone is permitted to copy and distribute verbatim copies
@@ -291,7 +291,7 @@ convey the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
     {description}
-    Copyright (C) {year}  {fullname}
+    Copyright (C) 2014_  DGenr8s Ltd.
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
